@@ -1,0 +1,15 @@
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\bin\Debug\net5.0\CleanArqMvc.Application.deps.json
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\bin\Debug\net5.0\CleanArqMvc.Application.dll
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\bin\Debug\net5.0\CleanArqMvc.Application.pdb
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\bin\Debug\net5.0\CleanArqMvc.Domain.dll
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\bin\Debug\net5.0\CleanArqMvc.Domain.pdb
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.csproj.AssemblyReference.cache
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.AssemblyInfoInputs.cache
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.AssemblyInfo.cs
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.csproj.CopyComplete
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.dll
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\refint\CleanArqMvc.Application.dll
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\CleanArqMvc.Application.pdb
+C:\Projetos\Testes\CleanArqMvc\CleanArqMvc.Application\obj\Debug\net5.0\ref\CleanArqMvc.Application.dll

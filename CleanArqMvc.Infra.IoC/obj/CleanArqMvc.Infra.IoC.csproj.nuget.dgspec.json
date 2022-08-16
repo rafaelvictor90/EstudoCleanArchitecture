@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj",
+        "projectName": "CleanArqMvc.Application",
+        "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj",
+        "projectName": "CleanArqMvc.Domain",
+        "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj",
+        "projectName": "CleanArqMvc.Infra.Data",
+        "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
+        "projectName": "CleanArqMvc.Infra.IoC",
+        "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj": {
+                "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj"
+              },
+              "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
+              },
+              "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

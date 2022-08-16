@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CleanArqMvc.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CleanArqMvc.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArqMvc.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArqMvc.Application.dll": {}
+        }
+      },
+      "CleanArqMvc.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CleanArqMvc.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArqMvc.Domain.dll": {}
+        }
+      },
+      "CleanArqMvc.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CleanArqMvc.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArqMvc.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArqMvc.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArqMvc.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArqMvc.Application/CleanArqMvc.Application.csproj",
+      "msbuildProject": "../CleanArqMvc.Application/CleanArqMvc.Application.csproj"
+    },
+    "CleanArqMvc.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanArqMvc.Domain/CleanArqMvc.Domain.csproj",
+      "msbuildProject": "../CleanArqMvc.Domain/CleanArqMvc.Domain.csproj"
+    },
+    "CleanArqMvc.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../CleanArqMvc.Infra.Data/CleanArqMvc.Infra.Data.csproj",
+      "msbuildProject": "../CleanArqMvc.Infra.Data/CleanArqMvc.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CleanArqMvc.Application >= 1.0.0",
+      "CleanArqMvc.Domain >= 1.0.0",
+      "CleanArqMvc.Infra.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rafael\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
+      "projectName": "CleanArqMvc.Infra.IoC",
+      "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
+      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj"
+            },
+            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
+            },
+            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
