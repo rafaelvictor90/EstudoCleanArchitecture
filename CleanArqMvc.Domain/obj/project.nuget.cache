@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QVo8D8Zt0xcw2AmTDhb0+Ko3eh+QL2dz7C3PCsp56Zwh1iZTL079Hi7wqkJ6uUUrl9BOtC879QbEEVa4wCfq+w==",
+  "dgSpecHash": "Q6aWfGnSWYFtAhkgh8gW3wM8MWK7ioSlr+8figuCLwQwJuyglG2icxUu25cyhg9Hg5eGeRd29MqRR0tz4ID8dg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj",
+  "projectFilePath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj",
+      "projectUniqueName": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj",
       "projectName": "CleanArqMvc.Application",
-      "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj",
+      "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\obj\\",
+      "outputPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
+            "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
             }
           }
         }

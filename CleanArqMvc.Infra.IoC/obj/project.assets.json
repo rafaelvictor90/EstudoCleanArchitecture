@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
+      "projectUniqueName": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
       "projectName": "CleanArqMvc.Infra.IoC",
-      "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
+      "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Infra.IoC\\CleanArqMvc.Infra.IoC.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.IoC\\obj\\",
+      "outputPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,14 +91,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj": {
-              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj"
+            "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Application\\CleanArqMvc.Application.csproj"
             },
-            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
+            "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Domain\\CleanArqMvc.Domain.csproj"
             },
-            "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj": {
-              "projectPath": "C:\\Projetos\\Testes\\CleanArqMvc\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj"
+            "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj": {
+              "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArqMvc.Infra.Data\\CleanArqMvc.Infra.Data.csproj"
             }
           }
         }
