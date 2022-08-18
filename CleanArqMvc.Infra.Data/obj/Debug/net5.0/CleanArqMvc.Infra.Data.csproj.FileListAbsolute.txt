@@ -28,3 +28,6 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\obj\Debug\net5
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\obj\Debug\net5.0\refint\CleanArqMvc.Infra.Data.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\obj\Debug\net5.0\CleanArqMvc.Infra.Data.pdb
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArqMvc.Infra.Data.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\bin\Debug\net5.0\CleanArqMvc.Infra.Data.runtimeconfig.json
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\bin\Debug\net5.0\CleanArqMvc.Infra.Data.runtimeconfig.dev.json
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArqMvc.Infra.Data\obj\Debug\net5.0\CleanArqMvc.Infra.Data.genruntimeconfig.cache
