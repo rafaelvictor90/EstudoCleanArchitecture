@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "76nr3Ze8X8b5566EW79Ffloc2Lt63GfUb7JDwoL8vtqBeeIDhUhbm4EvWZ5pYvQG4XN/BGpeFphlK76IZINoow==",
+  "dgSpecHash": "YpJk403i9B8U+gCBviAbpIyYIZsKMh06yS8XaKqLdLxROBE9dCUxyCMWRDXF/WFuYbtDLlrfYaXVozDJ2mWmeA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

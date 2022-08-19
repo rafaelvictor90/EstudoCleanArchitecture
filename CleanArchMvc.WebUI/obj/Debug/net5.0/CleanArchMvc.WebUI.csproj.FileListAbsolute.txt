@@ -784,3 +784,4 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\obj\Debug\net5.0\C
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Humanizer.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.dll
