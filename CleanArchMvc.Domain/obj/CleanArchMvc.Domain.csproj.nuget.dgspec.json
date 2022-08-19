@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Testes\\EstudoCleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {}
+    "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Testes\\EstudoCleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Testes\\EstudoCleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Testes\\EstudoCleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\Testes\\EstudoCleanArchitecture\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

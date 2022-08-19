@@ -10,3 +10,15 @@ C:\Projetos\Testes\EstudoCleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\Clean
 C:\Projetos\Testes\EstudoCleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\refint\CleanArchMvc.Domain.dll
 C:\Projetos\Testes\EstudoCleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.pdb
 C:\Projetos\Testes\EstudoCleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\ref\CleanArchMvc.Domain.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.deps.json
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\refint\CleanArchMvc.Domain.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.Domain\obj\Debug\net5.0\ref\CleanArchMvc.Domain.dll
