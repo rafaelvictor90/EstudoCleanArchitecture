@@ -489,7 +489,6 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\r
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -515,8 +514,6 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\r
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -615,7 +612,6 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\r
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -785,3 +781,13 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\obj\Debug\net5.0\r
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Humanizer.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
