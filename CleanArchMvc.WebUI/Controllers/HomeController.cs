@@ -1,24 +1,17 @@
-﻿using CleanArchMvc.Application.DTOs;
-using CleanArchMvc.Application.Interfaces;
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchMvc.WebUI.Controllers
 {
-    public class CategoriesController : Controller
+    public class HomeController : Controller
     {
-        private readonly ICategoryService _categoryService;
-        public CategoriesController(ICategoryService categoryService)
+        public IActionResult Index()
         {
-            _categoryService = categoryService;
+            return View();
         }
 
-        [HttpGet]
-        public async Task<IActionResult> Index()
+        public IActionResult Privacy()
         {
-            var categories = await _categoryService.GetCategories();
-            return View(categories);
+            return View();
         }
     }
 }
