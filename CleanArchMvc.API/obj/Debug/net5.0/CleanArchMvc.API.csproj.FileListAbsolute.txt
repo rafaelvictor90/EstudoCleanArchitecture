@@ -53,7 +53,6 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Mic
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -80,3 +79,4 @@ C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Cle
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\Projetos\Testes\EstudoCleanArchitecture\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
